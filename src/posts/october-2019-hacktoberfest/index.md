@@ -28,7 +28,7 @@ Don't like hands on activity or not interested in hacking Open Source? We'll hav
 
 Have you ever worked on a project and found yourself wrestling with outdated innovations and over-complicated tools? Would you like to have a talk with the engineer at that time (maybe yourself!) and explain what would have saved you a lot of headaches nowadays?
 
-Then here you are just in time before the Next Big Thing (tm) arrives at your local timezone! See how you can write modern CSS and reverse tech debt into graceful End Of Life (EOL).
+Then here you are just in time before the Next Big Thing™ arrives at your local timezone! See how you can write modern CSS and reverse tech debt into graceful End Of Life (EOL).
 
 Your future you approves.
 
