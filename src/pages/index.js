@@ -8,7 +8,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <section className="index-welcome">
-      <p>Welcome to DublinCSS website. Here you'll find more information about our group events</p>
+      <p>Welcome to DublinCSS website. Here you'll find more information about our group</p>
       <div className="dublincss-cta">
         Go to <a className="dublincss-cta__link" href="https://meetup.com/DublinCSS" target="_blank" rel="noopener noreferrer">meetup.com/DublinCSS</a> to RSVP to our events.
       </div>
