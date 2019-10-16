@@ -263,3 +263,7 @@ table {
   text-align: justify;
   grid-area: excerpt;
 }
+
+.active{
+  text-decoration: underline;
+}
