@@ -36,13 +36,14 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
+    "build": "gatsby build && npm run postcss",
     "develop": "gatsby develop",
     "deploy": "gatsby build && gh-pages -d public -b master -r https://$GH_TOKEN@github.com/dublincss/dublincss.github.io.git",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \"",
+    "postcss": "postcss -u autoprefixer -r public/*.css"
   },
   "repository": {
     "type": "git",
