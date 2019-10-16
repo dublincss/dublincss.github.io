@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faMeetup } from '@fortawesome/free-brands-svg-icons'
 
 class Footer extends Component {
   componentDidMount() {
@@ -16,7 +18,10 @@ class Footer extends Component {
           alt="DublinCSS group page"
           target="_blank"
           rel="noopener noreferrer"
-        >DublinCSS community</a> - 2019
+        >
+          <FontAwesomeIcon icon={faMeetup} size="lg" />
+            DublinCSS community
+        </a> - 2019
       </footer>
     );
   }
