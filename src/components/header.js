@@ -19,21 +19,22 @@ const Header = ({ siteTitle }) => (
       <Link
         to='/'
         className="site-menu__item"
-        activeClassName="active"
+        activeClassName="site-header__logo-link--active"
+        
       >
         Home
       </Link>
       <Link
         to='/posts'
         className="site-menu__item"
-        activeClassName="active"
+        activeClassName="site-header__logo-link--active"
       >
         Posts
       </Link>
       <Link
         to='/about'
         className="site-menu__item"
-        activeClassName="active"
+        activeClassName="site-header__logo-link--active"
       >
         About
       </Link>

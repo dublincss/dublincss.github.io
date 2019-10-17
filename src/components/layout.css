@@ -131,6 +131,10 @@ table {
   color: #d1345b;
 }
 
+.site-header__logo-link--active{
+  border-bottom: 1px solid;
+}
+
 .site-header__logo {
   display: inline;
   height: 10rem;
