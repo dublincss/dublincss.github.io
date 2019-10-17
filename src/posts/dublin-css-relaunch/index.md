@@ -19,6 +19,8 @@ We can do awesome stuff on the web but styling has always been a challenge for t
 
 ### CSS and Illustrations - [Camila Waz](https://camilawaz.com)
 
+There is a thousand ways you can make writing CSS fun. One of those is turning code into images - to be more accurate, illustrations!
+In this talk, we will explore a few techniques and how to get started with CSS Illustrations.
 
 ## The Speakers
 
@@ -26,6 +28,12 @@ We can do awesome stuff on the web but styling has always been a challenge for t
 Software Engineer living in Dublin, Ireland. While working as Web Developer, Sheldon also volunteered with Free and Open Source Community for 10 years, co-organizing conferences, giving talks and workshops, and writing code. Today Sheldon is a co-organizer of [DublinCSS](/) and loves sharing what he learns with the community.
 
 ### [Camila Waz](https://camilawaz.com)
+Camila Waz is a Brazilian web designer and developer, now based in Dublin - Ireland.
+
+Her passion for content brought her into the world of tech where she got to know Front End Technologies and Design by building blog themes.
+Using this knowledge she worked as a Freelancer for a number of years helping entrepreneurs and bloggers to get their message (and their websites!) out there. At the same time, she contributed to her local tech community organizing events, meetups and training sessions for new developers.
+
+Now she works as a UI/UX Web Developer and is a co-organiser for DublinCSS a community with monthly meetups that welcomes all developers, designers and curious individuals, regardless of experience level, to discuss and learn about the latest and standard CSS tips and techniques.
 
 ## The Agenda - 17/Jul/2019
 
