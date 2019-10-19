@@ -159,6 +159,10 @@ table {
   text-align: center;
 }
 
+.dublincss-cta-about {
+  margin-top: 25px;
+}
+
 .dublincss-cta__link {
   display: inline-block;
   padding: 5px;
