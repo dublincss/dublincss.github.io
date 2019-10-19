@@ -136,6 +136,12 @@ table {
   height: 10rem;
 }
 
+.site-header__logoFooter {
+  display: inline;
+  height: 2rem;
+  margin: 1.5rem 0 0;
+}
+
 .site-menu__item {
   padding: 5px 10px;
   text-decoration: none;
@@ -187,7 +193,7 @@ table {
   padding: 1rem;
   bottom: 0;
   display: inline-block;
-  height: 5rem;
+  height: 7rem;
   position: absolute;
   text-align: center;
   width: 100%;
