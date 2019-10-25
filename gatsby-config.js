@@ -50,7 +50,7 @@ module.exports = {
         background_color: `rgb(52, 84, 209)`,
         theme_color: `rgb(52, 84, 209)`,
         display: `minimal-ui`,
-        icon: `src/images/dublincss-logo.png`, // This path is relative to the root of the site.
+        icon: `src/images/dublincss-favicon.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
