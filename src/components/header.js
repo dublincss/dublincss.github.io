@@ -34,6 +34,12 @@ const Header = ({ siteTitle }) => (
       >
         About
       </Link>
+      <Link
+        to='/code-of-conduct'
+        className="site-menu__item"
+      >
+        Code of conduct
+      </Link>
     </nav>
   </header>
 )
