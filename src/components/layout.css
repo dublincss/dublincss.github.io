@@ -131,6 +131,10 @@ table {
   color: #d1345b;
 }
 
+.site-header__logo-link--active{
+  border-bottom: 1px solid;
+}
+
 .site-header__logo {
   display: inline;
   height: 10rem;
@@ -262,4 +266,8 @@ table {
   margin: .5rem 0 0;
   text-align: justify;
   grid-area: excerpt;
+}
+
+.active{
+  text-decoration: underline;
 }
